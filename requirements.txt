@@ -1,0 +1,6 @@
+django # Para criar o projeto 
+python-decouple # Desacoplar configurações de ambiente 
+dj-database-url # Configurar o banco de dados
+dj-static # Configurar arquivos estáticos
+gunicorn # Servidor de aplicação
+psycopg2 # Biblioteca para acessar dados do postgresql

@@ -1,0 +1,6 @@
+-r requirements.txt # Para importar bibliotecas de produção
+django-extensions # Adiciona configurações extras ao debug do django
+django-test-without-migrations # Possibilita executar testes sem executar as migrations
+autopep8
+pylint
+flake8
